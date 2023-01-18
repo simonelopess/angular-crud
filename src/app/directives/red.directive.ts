@@ -1,5 +1,6 @@
 import { Directive, ElementRef } from '@angular/core';
 
+/* exemplo de diretiva de elemento */
 @Directive({
   selector: '[appRed]'
 })
