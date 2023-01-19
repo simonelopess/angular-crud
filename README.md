@@ -1,27 +1,31 @@
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This project was created to develop how to create , update and delete using Angular JS.
 
-## Development server
+To start the project in the frontend folder please run:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+`ng serve`
 
-## Code scaffolding
+# Backend
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To start the fake backend run at backend folder run:
 
-## Build
+`npm start`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Tools
 
-## Running unit tests
+- JSON Server
+- Material UI
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Coverd Topics
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Observables
+- Directives
+- Routes
+- Injectable Independences
+- How to create a component
+- Services
+- Angular Schematics (models to create a component)
+- Data Binding
+- Interfaces
+- Pipe Operators
