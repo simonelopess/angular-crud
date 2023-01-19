@@ -1,3 +1,7 @@
+To install the project, please run:
+
+`npm install`
+
 # Frontend
 
 This project was created to develop how to create , update and delete using Angular JS.
